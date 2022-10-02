@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace UserSettingsTest\Handler;
+namespace Handler;
 
 use PHPUnit\Framework\TestCase;
 use UserSettings\Entity\User;
